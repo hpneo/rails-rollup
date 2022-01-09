@@ -1,0 +1,4 @@
+button[type="button"] {
+  font-size: inherit;
+  @apply flex items-center gap-2 rounded-lg shadow-sm text-sm py-2 px-3.5 bg-white text-black;
+}
